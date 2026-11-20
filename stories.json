@@ -1,1 +1,284 @@
-{"date":"2026-11-19","date_label":"THURSDAY 19 NOVEMBER 2026","footer":"Compiled from Reuters, BBC, Polygon, Federal Reserve, TechCrunch and India Meteorological Department reports filed on 19 November 2026 (morning, WIB).","sources_note":"All seven stories were reported on 19 November 2026; the Trump-Xi-Putin meeting and India-Japan talks are scheduled events taking place on 19 November, with outcomes still to be reported.","stories":[{"headline":"Trump, Xi and Putin meet in Shenzhen in first trilateral summit","n":1,"source":"Reuters / Le Monde, 19 Nov 2026","summary":"The three leaders are due to meet for an hour on the sidelines of the APEC summit in Shenzhen, with nuclear arms, Iran and Ukraine on the agenda; all three capitals confirmed the first such meeting.","tag":"ASIA  ·  DIPLOMACY"},{"headline":"Iran hits US base in Kuwait as Gulf attacks widen","n":2,"source":"BBC / Reuters, 19 Nov 2026","summary":"Iran said its drones hit US Patriot batteries and launch platforms at Ali Al-Salem Air Base in Kuwait. Kuwait said its air defences engaged the drones and reported no damage.","tag":"GULF  ·  WAR"},{"headline":"Grand Theft Auto VI begins global rollout after 13-year wait","n":3,"source":"Polygon / Reuters, 19 Nov 2026","summary":"Rockstar's game unlocked at midnight local time on 19 November, starting in New Zealand and rolling around the world on PlayStation 5 and Xbox Series X|S. Pre-orders topped an estimated 15.88 million units.","tag":"TECH  ·  GAMING"},{"headline":"Fed minutes point to more rate hikes; stocks slide, gold tumbles","n":4,"source":"Federal Reserve / CNBC, 19 Nov 2026","summary":"Minutes showed almost all Fed officials saw further rate rises as likely, and Governor Waller pushed for a half-point hike in December; the S&P 500 fell 0.23% and gold slid 3.3% to $3,724.","tag":"MARKETS  ·  ECONOMY"},{"headline":"Anthropic prices IPO at $83 in record AI debut","n":5,"source":"Reuters / TechCrunch, 19 Nov 2026","summary":"The Claude maker priced its IPO at $83 a share, above its $70-$78 range, in one of the largest listings on record. Shares are due to start trading on the Nasdaq on Thursday under the ticker ANT.","tag":"TECH  ·  MARKETS"},{"headline":"Cyclone Akvan nears India coast as red alerts go out","n":6,"source":"India Meteorological Dept, 19 Nov 2026","summary":"Severe Cyclonic Storm Akvan sat about 500 km off India's east coast, with extremely heavy rain warned for 19-20 November. Red alerts cover six Odisha districts; schools shut.","tag":"WEATHER  ·  ASIA"},{"headline":"India and Japan hold 2+2 defence talks in Tokyo","n":7,"source":"Press Information Bureau / Hindu BusinessLine, 19 Nov 2026","summary":"Foreign and defence ministers meet in Tokyo to review defence equipment, maritime security and joint exercises, reaffirming a free and open Indo-Pacific. It is the fourth 2+2 round.","tag":"ASIA  ·  DEFENCE"}],"subtitle":"Seven stories that defined Thursday, 19 November 2026","title":"THE WORLD TODAY"}
+{
+ "briefs": [
+  {
+   "place": "Kyiv",
+   "region": "Europe",
+   "source": "UKRINFORM",
+   "text": "Raid kills 1, hits St Volodymyr's Cathedral."
+  },
+  {
+   "place": "Berlin",
+   "region": "Europe",
+   "source": "UKRINFORM",
+   "text": "Allies pledge €90bn, urge energy truce."
+  },
+  {
+   "place": "Ankara",
+   "region": "Mideast",
+   "source": "EURONEWS",
+   "text": "Imamoglu diploma voided; bid barred."
+  },
+  {
+   "place": "Gaza",
+   "region": "Mideast",
+   "source": "CP24",
+   "text": "Israel says raid past Yellow Line is over."
+  },
+  {
+   "place": "Hormuz",
+   "region": "Mideast",
+   "source": "WANA",
+   "text": "IRGC claims two supertankers hit mines."
+  },
+  {
+   "place": "Sanaa",
+   "region": "Mideast",
+   "source": "AL JAZEERA",
+   "text": "Houthis: Saudi raids killed 10 in 2 days."
+  },
+  {
+   "place": "Kafr Dahi",
+   "region": "Mideast",
+   "source": "AL JAZEERA",
+   "text": "Mosque firebombed; graffiti left."
+  },
+  {
+   "place": "Seoul",
+   "region": "Asia",
+   "source": "KOREA HERALD",
+   "text": "Sungeun exam: 551,864 sign up."
+  },
+  {
+   "place": "Dhaka",
+   "region": "Asia",
+   "source": "BUSINESS TODAY",
+   "text": "Awami “lockdown”; buses torched."
+  },
+  {
+   "place": "Jakarta",
+   "region": "Asia",
+   "source": "CNN INDONESIA",
+   "text": "Asset-seizure law finally passes."
+  },
+  {
+   "place": "Mongolia",
+   "region": "Asia",
+   "source": "WASH. POST",
+   "text": "MPs accept president's resignation."
+  },
+  {
+   "place": "Pretoria",
+   "region": "Africa",
+   "source": "SARB",
+   "text": "Reserve Bank holds at 7.25% on 4–3 vote."
+  },
+  {
+   "place": "Kenya",
+   "region": "Africa",
+   "source": "AIU",
+   "text": "Marathon star Jepchirchir banned 3 years."
+  },
+  {
+   "place": "Badme",
+   "region": "Africa",
+   "source": "ADDIS STD",
+   "text": "Drones, shelling on Eritrea border."
+  },
+  {
+   "place": "Gambia",
+   "region": "Africa",
+   "source": "LANCET",
+   "text": "R21 malaria jabs cut clinical cases 47%."
+  },
+  {
+   "place": "Nairobi",
+   "region": "Africa",
+   "source": "AA",
+   "text": "US group wins Mirma Hill rare-earths bid."
+  },
+  {
+   "place": "Haiti",
+   "region": "Americas",
+   "source": "AL JAZEERA",
+   "text": "Raid kills at least 34 suspected gangsters."
+  },
+  {
+   "place": "Bogotá",
+   "region": "Americas",
+   "source": "FILO",
+   "text": "First national strike against “rescue” law."
+  },
+  {
+   "place": "US",
+   "region": "Americas",
+   "source": "AL JAZEERA",
+   "text": "~879,000 AI chips cleared for China."
+  },
+  {
+   "place": "APEC",
+   "region": "Oceania",
+   "source": "ABC",
+   "text": "Albanese to Putin: “End your war.”"
+  },
+  {
+   "place": "Tonga",
+   "region": "Oceania",
+   "source": "RNZ",
+   "text": "27-day drought state of emergency begins."
+  },
+  {
+   "place": "Bougainville",
+   "region": "Oceania",
+   "source": "RNZ",
+   "text": "Rio Tinto commits $250m to Panguna."
+  },
+  {
+   "place": "Space",
+   "region": "World",
+   "source": "ESA",
+   "text": "ESA picks seven-craft Plasma Observatory."
+  }
+ ],
+ "date": "2026-11-19",
+ "date_check": "DATE CHECK ✓  All 36 stories happened, or were first reported, on Thursday 19 November 2026 (any time zone). Left out as earlier news: Anthropic's IPO pricing (Wed 18) · the $190.4m Van Gogh sale (Wed 18) · the Florida floods (Wed 18) · Krasnodar refinery strikes (Tue 17–Wed 18). Not yet: Akvan's landfall (Fri 20) · COP31's close (Fri 20).",
+ "date_label": "THURSDAY 19 NOVEMBER 2026",
+ "features": [
+  {
+   "art": "bridge",
+   "headline": "Crimean Bridge hit, third time in a week",
+   "n": 4,
+   "place": "EUROPE · CRIMEA",
+   "region": "Europe",
+   "summary": "Trains halted. Putin: Russia “will not negotiate”."
+  },
+  {
+   "art": "globe",
+   "headline": "COP31 draft drops fossil-fuel language",
+   "n": 5,
+   "place": "WORLD · COP31",
+   "region": "World",
+   "summary": "Revised text also loses the $120bn adaptation goal."
+  },
+  {
+   "art": "spiral",
+   "headline": "Cyclone Akvan: 120,000 evacuated",
+   "n": 6,
+   "place": "ASIA · ODISHA",
+   "region": "Asia",
+   "summary": "Due ashore near Gopalpur on Friday; schools shut."
+  },
+  {
+   "art": "rocket",
+   "headline": "Saudis say Houthi missile shot down",
+   "n": 7,
+   "place": "MIDEAST · RIYADH",
+   "region": "Mideast",
+   "summary": "Sirens at 04:12; debris damaged a tower, no hurt."
+  },
+  {
+   "art": "flag",
+   "headline": "Somalia expels the UAE's ambassador",
+   "n": 8,
+   "place": "AFRICA · MOGADISHU",
+   "region": "Africa",
+   "summary": "Given 72 hours to leave; Somalia cites sovereignty."
+  },
+  {
+   "art": "vote",
+   "headline": "Denmark ratifies US Greenland pact",
+   "n": 9,
+   "place": "EUROPE · DENMARK",
+   "region": "Europe",
+   "summary": "Vote 109–0; new US sites at Narsarsuaq, Mestersvig."
+  },
+  {
+   "art": "gavel",
+   "headline": "Korea's top court orders Han retrial",
+   "n": 10,
+   "place": "ASIA · SEOUL",
+   "region": "Asia",
+   "summary": "Ex-PM Han's sentence partly overturned."
+  },
+  {
+   "art": "calendar",
+   "headline": "Lula ends Brazil's six-day work week",
+   "n": 11,
+   "place": "AMERICAS · BRAZIL",
+   "region": "Americas",
+   "summary": "Cap falls to 42 hours in December, to 40 by 2027."
+  },
+  {
+   "art": "chart",
+   "headline": "Anthropic closes up 17% on debut",
+   "n": 12,
+   "place": "AMERICAS · NASDAQ",
+   "region": "Americas",
+   "summary": "Priced at $83; it closed its first day at $97.17."
+  },
+  {
+   "art": "bars",
+   "headline": "Australia's jobless rate rises to 4.9%",
+   "n": 13,
+   "place": "OCEANIA · CANBERRA",
+   "region": "Oceania",
+   "summary": "Highest since 2021; 43,500 jobs went in October."
+  }
+ ],
+ "kicker": "Trump, Xi and Putin share one table  ·  The World Court finds genocide in Myanmar  ·  GTA VI goes on sale after 13 years",
+ "leads": [
+  {
+   "art": "summit",
+   "headline": "Trump, Xi and Putin hold first three-way summit",
+   "n": 1,
+   "place": "ASIA · APEC, SHENZHEN",
+   "region": "Asia",
+   "summary": "A 90-minute meeting beside APEC. Their joint “Declaration Toward Peace” says a nuclear war “cannot be won”."
+  },
+  {
+   "art": "court",
+   "headline": "World Court: Myanmar committed genocide",
+   "n": 2,
+   "place": "WORLD · ICJ, THE HAGUE",
+   "region": "Europe",
+   "summary": "The first ruling that a state committed genocide. Reparations ordered; the vote was 9–6."
+  },
+  {
+   "art": "sunset",
+   "headline": "GTA VI goes on sale, 13 years after GTA V",
+   "n": 3,
+   "place": "WORLD · VIDEO GAMES",
+   "region": "World",
+   "summary": "Launches rolled west from New Zealand at local midnight. Pre-orders topped an estimated 15.88 million units."
+  }
+ ],
+ "masthead": "Thursday 19 November 2026",
+ "numbers": [
+  {
+   "big": "3",
+   "cap": "leaders at one table: US, China, Russia"
+  },
+  {
+   "big": "9–6",
+   "cap": "ICJ vote: Myanmar committed genocide"
+  },
+  {
+   "big": "+17%",
+   "cap": "Anthropic's first day, from $83"
+  },
+  {
+   "big": "120,000",
+   "cap": "evacuated ahead of Cyclone Akvan"
+  },
+  {
+   "big": "109–0",
+   "cap": "Denmark backs US Greenland pact"
+  },
+  {
+   "big": "4.9%",
+   "cap": "Australia jobless, highest since 2021"
+  }
+ ],
+ "sources": "Sources: Al Jazeera · CNBC · AP · Xinhua · Kyiv Independent · Ukrinform · Euronews · Arab News · AA · RNZ · ABC · The Lancet. Claims attributed, not stated as fact. Pictures drawn in code.",
+ "topline_left": "EVERY STORY HERE HAPPENED, OR WAS FIRST REPORTED, ON THURSDAY 19 NOVEMBER 2026, IN ANY TIME ZONE",
+ "topline_right": "36 STORIES · 7 REGIONS"
+}
